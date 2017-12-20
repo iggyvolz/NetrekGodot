@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetrekGodot", "NetrekGodot.csproj", "{FBEFB47B-CA12-4DD5-AB56-792A3BABCAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	Release|Any CPU = Release|Any CPU
+	Tools|Any CPU = Tools|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBEFB47B-CA12-4DD5-AB56-792A3BABCAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEFB47B-CA12-4DD5-AB56-792A3BABCAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEFB47B-CA12-4DD5-AB56-792A3BABCAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEFB47B-CA12-4DD5-AB56-792A3BABCAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBEFB47B-CA12-4DD5-AB56-792A3BABCAAC}.Tools|Any CPU.ActiveCfg = Tools|Any CPU
+		{FBEFB47B-CA12-4DD5-AB56-792A3BABCAAC}.Tools|Any CPU.Build.0 = Tools|Any CPU
+	EndGlobalSection
+EndGlobal
